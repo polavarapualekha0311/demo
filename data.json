@@ -3,5 +3,43 @@
  	"name":"alekha",
  	"email":"alekhapolavarapu@gmail.com",
  	"label":"student"
+ },
+ "career":{
+ "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization" 	
+ },
+ "education":[
+{
+"degree":"B-Tech(Computer Science and Technology)",
+"institute":"PVP Siddhartha",
+"data":["2015-19","94%"]
+},
+{
+"degree":"Intermediate(M.P.C)",
+"institute":"Narayana Junior College",
+"data":["2014-16","96%"]
+},
+{
+"degree":"S.S.C",
+"institute":"Nirmala High School",
+"data":["2014","97%"]
+  }
+ ],
+ "skills":[
+ {		
+"title":"Languages",
+"content":["C","Python","Java","C#","C++","PHP"]
+ },
+{
+ "title":"DataBase",
+ "content":["SQL","MongoDB","MySql"]
+ },
+ {
+"title":"Web Technologies",
+"content":["HTML","CSS","JavaScript","PHP"]
+ },
+ {
+"title":"Frameworks",
+"content":["CodeIgniter","Django"]
  }
-}
+]
+}	
